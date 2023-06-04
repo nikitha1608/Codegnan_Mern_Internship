@@ -1,2 +1,2 @@
 # paytm_homepage
-This is an Paytm home page ui fully written in html, css only
+This is a Paytm Home Page UI completely written in HTML and CSS only
